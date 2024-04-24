@@ -51,11 +51,11 @@
     margin-left: 41vw;
     opacity: 0;
     margin-top: 8vw;
-    width: 15vw;
+    width: 22vw;
     height: 30vw;
 }
 #flor{
-    animation-duration: 14s;
+    animation-duration: 22s;
     animation-name: flor;
     opacity: 100%;
     position: absolute;
@@ -63,7 +63,7 @@
     width: 5vw;
 }
 #flor1{
-    animation-duration: 14s;
+    animation-duration: 22s;
     opacity: 100%;
     animation-name: flor;
     position: absolute;
@@ -72,7 +72,7 @@
 }
 #flor2{
     opacity: 100%;
-    animation-duration: 14s;
+    animation-duration: 22s;
     animation-name: flor;
     position: absolute;
     transform: translate(57vw, 28vw);
@@ -80,7 +80,7 @@
 }
 #flor3{
     opacity: 100%;
-    animation-duration: 14s;
+    animation-duration: 22s;
     animation-name: flor;
     position: absolute;
     transform: translate(55vw, 28vw);
@@ -90,7 +90,7 @@
     position: absolute;
     animation-name: flores;
     opacity: 100%;
-    animation-duration: 14s;
+    animation-duration: 22s;
     display: grid;
     transform: translate(42vw,25vw);
     width: 20vw;
